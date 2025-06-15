@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
     return (
-        <div className='flex justify-around align-middle text-center mt-5'>
+        <div className='flex justify-around align-middle text-center mt-10 h-[100px]'>
             <div>
                 <img src="/brand_logo.png" alt="logo" />
             </div>
