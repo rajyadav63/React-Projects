@@ -4,7 +4,7 @@ import './App.css'
 function App() {
 
   return (
-    <div>
+    <div className='bg-blue-400'>
       React Projects
     </div>
   )
